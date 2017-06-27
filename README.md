@@ -54,6 +54,9 @@ variational_autoencoder_deconv.py | 在VAE的decoder中，用反卷积deconv
 ## AI.Learning.PlayWithKeras-js
 keras-js是一个好玩的工具，值得学着去用
 
+## @AI.Learnning.AboutNN
+由cnn filter可视化突然想到的一些关于生物神经网络的一些漫谈
+
 
 
 
